@@ -1,0 +1,4 @@
+- [GroBot]("https://rcos.io/projects/djpetti/grobot/profile")
+- [Keras]("https://github.com/fchollet/keras")
+- [Linux]("https://github.com/torvalds/linux")
+- [Tensorflow]("https://github.com/tensorflow/tensorflow")
